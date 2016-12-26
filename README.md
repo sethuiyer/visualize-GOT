@@ -15,3 +15,10 @@ How allegiances, nobility and the appearence in the book affect the gender of ch
 ![figure](figure_1.png)
 
 We see some outliers in the death of male charecters.
+
+### Question 3:
+Which feature is more powerful in the prediction? Popularity or the fact that charecter is actually alive or not?
+
+![figure](figure_2.png)
+
+Here, we see clusters are forming among the classes which have the common theme of popularity. Hence, we can say popularity is much more a powerful feature in the prediction.
