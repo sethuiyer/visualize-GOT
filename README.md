@@ -9,3 +9,9 @@ Executing `python visualise_battle.py`, we have this following graph
 ![attacker](attacker.png)
 
 So, Mostly it is similar to the **win** outcome.
+
+### Question 2:
+How allegiances, nobility and the appearence in the book affect the gender of charecter deaths.
+![figure](figure_1.png)
+
+We see some outliers in the death of male charecters.
